@@ -1,8 +1,8 @@
-#This is a data analysis I made during my learning in datacamp 
+# This is a data analysis I made during my learning in datacamp 
 
 The theme of this project is the analysis about the relationship between the Android apps' size , price , rating and popularity.
 
-#Data set:
+# Data set:
 
 apps.csv : contains all the details of the applications on Google Play. There are 13 features that describe a given app.
 
